@@ -21,13 +21,9 @@ IDE used- DevC++
 
 1. Generate RSA public(n,e) and private(n,d) keys.
 
-2. Take a 5-character message and turn it into a number using Base-256 encoding.
+2. Take a 5-character message and turn it into a number using Base-256 encoding. Then Encrypt using C = M^e mod n.
 
-3. Encrypt using C = M^e mod n.
-
-4. Decrypt using M = C^d mod n.
-
-5. We then convert the resulting number back into text.
+3. Decrypt using M = C^d mod n. Then convert the resulting number back into text.
 
 
 
