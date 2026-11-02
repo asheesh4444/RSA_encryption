@@ -13,8 +13,8 @@ IDE used- DevC++
 3. Message Decryptor
 
 ## Example Image
-look at this
-![RSA implemenation example](images/RSA_encryption_example_photo.jpeg)
+
+![RSA Implementation Example](Images/RSA_encryption_example_photo.jpeg)
 
 
 ## Steps
